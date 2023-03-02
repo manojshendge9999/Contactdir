@@ -6,4 +6,4 @@ User can view all contacts.
 User can search contact by name.
 User can serach contact by mobile number.
 
-It also Contains functionality to validate mobile number iserting it into file.
+It also Contains functionality to validate mobile number inserting it into file.
